@@ -19,6 +19,6 @@
 
     1. Clone the repository: https://github.com/ucdtomaszsadowy/file-organizer.git
     2. Navigate to the directory
-    3. Run the tool: python file_organizer.py
+    3. Run the tool: python organize.py
     4. Select the directory you wish to organize using the GUI pop-up.
     5. The tool will then organize the files and notify you once the operation is complete.
