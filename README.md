@@ -6,19 +6,19 @@
 
 # Features:
 
-    -Interactive Folder Selection: Utilizes tkinter to provide a GUI-based folder selection process.
-    -Auto-Categorization: Groups files by their extensions, creating or using existing folders.
-    -Error Handling: Efficiently handles file and directory operations, catching and reporting any errors for a smooth user experience.
+  -Interactive Folder Selection: Utilizes tkinter to provide a GUI-based folder selection process.
+  -Auto-Categorization: Groups files by their extensions, creating or using existing folders.
+  -Error Handling: Efficiently handles file and directory operations, catching and reporting any errors for a smooth user experience.
 
 # Requirements:
 
-    -Python 3.x
-    -tkinter library (usually comes with Python standard library)
+  -Python 3.x
+  -tkinter library (usually comes with Python standard library)
 
 # Usage:
 
-    -Clone the repository: https://github.com/ucdtomaszsadowy/file-organizer.git
-    -Navigate to the directory
-    -Run the tool: python file_organizer.py
-    -Select the directory you wish to organize using the GUI pop-up.
-    -The tool will then organize the files and notify you once the operation is complete.
+    1. Clone the repository: https://github.com/ucdtomaszsadowy/file-organizer.git
+    2. Navigate to the directory
+    3. Run the tool: python file_organizer.py
+    4. Select the directory you wish to organize using the GUI pop-up.
+    5. The tool will then organize the files and notify you once the operation is complete.
